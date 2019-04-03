@@ -1,0 +1,45 @@
+body
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+	background-size:cover;
+	background-position:center;
+	border:2px solid #fff;
+
+}
+.app-box{
+	position:absolute;
+}
+
+
+
+.coloumn {
+	max-width: 840px;
+	max-height: 130px;
+	margin-top:200px;
+    margin-left: 400px;
+	margin-right:-400px;
+	margin-bottom:-200px;
+	
+	
+		
+
+	display:inline-block;
+
+	visibility: visible;
+	
+}
+.row{
+	max-width: 840px;
+	max-height: 770px;
+	
+	
+	
+		
+		
+	display:inline-block;
+
+	visibility: visible;
+	
+}
+
+
